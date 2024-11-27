@@ -15,9 +15,9 @@
 ### EN
 Use this template when starting a new project!
 
-Use this template, click the button in the top right to create a repository
-README, describe your project
-Branch, add a new branch for your work
-Pull Request, share when your work is complete
-Review, exchange feedback
-Merge, merge your work when it's done
+1. `Use this template`, click the button in the top right to create a repository
+2. `README`, describe your project
+3. `Branch`, add a new branch for your work
+4. `Pull Request`, share when your work is complete
+5. `Review`, exchange feedback
+6. `Merge`, merge your work when it's done
